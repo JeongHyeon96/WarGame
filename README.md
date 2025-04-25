@@ -31,7 +31,24 @@
 
 ## 📄 프로젝트 구조
 ```
-root/ ├── assets/ # CSS, JavaScript, 이미지 파일 │ ├── css/ # 스타일시트 │ ├── js/ # JavaScript 파일 │ └── images/ # 이미지 파일 ├── includes/ # PHP로 공통 기능을 처리하는 파일 │ ├── db.php # 데이터베이스 연결 │ ├── header.php # 공통 헤더 │ └── footer.php # 공통 푸터 ├── src/ # 문제 및 기능 구현 │ ├── problems/ # 각 문제의 PHP 파일 │ ├── solutions/ # 문제 해결을 위한 파일 ├── templates/ # HTML 템플릿 │ ├── index.html # 메인 페이지 │ └── problem.html # 문제 페이지 ├── config/ # 설정 파일 (MySQL 연결, 기타 설정) │ └── config.php # 데이터베이스 연결 설정 └── README.md # 프로젝트 설명
+root/
+├── assets/                          # CSS, JavaScript, 이미지 파일
+│   ├── css/                         # 스타일시트
+│   ├── js/                          # JavaScript 파일
+│   └── images/                      # 이미지 파일
+├── includes/                        # PHP로 공통 기능을 처리하는 파일
+│   ├── db.php                       # 데이터베이스 연결
+│   ├── header.php                   # 공통 헤더
+│   └── footer.php                   # 공통 푸터
+├── src/                             # 문제 및 기능 구현
+│   ├── problems/                    # 각 문제의 PHP 파일
+│   ├── solutions/                   # 문제 해결을 위한 파일
+├── templates/                       # HTML 템플릿
+│   ├── index.html                   # 메인 페이지
+│   └── problem.html                 # 문제 페이지
+├── config/                          # 설정 파일 (MySQL 연결, 기타 설정)
+│   └── config.php                   # 데이터베이스 연결 설정
+└── README.md                        # 프로젝트 설명
 ```
 ## 🚀 실행 방법
 1. **웹 서버 환경 설정**:
