@@ -31,24 +31,27 @@
 
 ## 📄 프로젝트 구조
 ```
-root/
-├── assets/                          # CSS, JavaScript, 이미지 파일
-│   ├── css/                         # 스타일시트
-│   ├── js/                          # JavaScript 파일
-│   └── images/                      # 이미지 파일
-├── includes/                        # PHP로 공통 기능을 처리하는 파일
-│   ├── db.php                       # 데이터베이스 연결
-│   ├── header.php                   # 공통 헤더
-│   └── footer.php                   # 공통 푸터
-├── src/                             # 문제 및 기능 구현
-│   ├── problems/                    # 각 문제의 PHP 파일
-│   ├── solutions/                   # 문제 해결을 위한 파일
-├── templates/                       # HTML 템플릿
-│   ├── index.html                   # 메인 페이지
-│   └── problem.html                 # 문제 페이지
-├── config/                          # 설정 파일 (MySQL 연결, 기타 설정)
-│   └── config.php                   # 데이터베이스 연결 설정
-└── README.md                        # 프로젝트 설명
+root/var/www/html
+├── problems/                          # Wargame 문제 폴더
+│   ├── beomgeun/                      # 범근님의 문제 폴더
+│   ├── byeonguk/                      # 병욱님의 문제 폴더
+│   ├── memory/                        # 재호님의 문제 폴더
+│   ├── seungmin/                      # 승민님의 문제 폴더
+│   ├── timemachine/                   # 길형님의 문제 폴더
+│   └── junghyun/                      # 정현(나)의 문제 폴더
+├── flags.php                          # 각 문제의 정답 PHP 파일
+├── img/                               # 메인페이지 및 문제 이미지 폴더
+├── index.php                          # 홈페이지 php 파일
+├── main.php                           # 홈페이지에서 Start누르면 문제목록들이 나오는 php 파일
+├── js/                              # js 폴더
+│   ├── main.js                      # 메인 페이지 js 파일
+│   ├── jumpscare.js                 
+│   ├── memory02.js                  
+│   ├── script.js                    
+│   ├── terminal05.js                
+│   └── terminal06.js                
+├── style/                           # CSS 스타일 디렉토리
+
 ```
 ## 🚀 실행 방법
 1. **웹 서버 환경 설정**:
