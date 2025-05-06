@@ -5,6 +5,12 @@
 
 각 팀원은 웹 해킹과 관련된 **취약점 문제**를 10개씩 작성하고, 이를 통해 **SQL Injection**, **Cross-Site Scripting (XSS)**, **File Inclusion**, **Command Injection** 등 다양한 웹 취약점을 실습할 수 있는 환경을 제공합니다.
 
+## 🖼️ 데모 미리보기
+
+> ESG Wargame 프로젝트 실행 화면
+
+![Wargame Demo](img/demo.gif)
+
 ## 🛠 기술 스택
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP (또는 팀 협업에 따라 다른 기술을 사용할 수 있음)
