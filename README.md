@@ -34,7 +34,7 @@
 
 ## Walkthrough
 
-이 리포지토리의 워크스루는 [PDF 링크를 클릭하여 열 수 있습니다:](https://github.com/JeongHyeon96/WarGame/blob/main/%EC%9C%A0%EB%A0%B9%EC%9D%98%EC%A7%91_walkthrough.pdf)할 수 있습니다.
+Wargame의 워크스루는 [PDF 링크를 클릭하여 열 수 있습니다](https://github.com/JeongHyeon96/WarGame/blob/main/%EC%9C%A0%EB%A0%B9%EC%9D%98%EC%A7%91_walkthrough.pdf)할 수 있습니다.
 
 ## 🛠 기술 스택
 - **Frontend**: HTML, CSS, JavaScript
