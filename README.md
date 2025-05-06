@@ -37,7 +37,7 @@
 이 리포지토리의 워크스루는 [여기에서 PDF 파일을 다운로드](./docs/walkthrough.pdf)할 수 있습니다.
 
 또는, 아래의 링크를 클릭하여 PDF를 열 수 있습니다:
-[워크스루 PDF](./docs/walkthrough.pdf)
+[워크스루 PDF](.유령의집_walkthrough.pdf)
 
 ## 🛠 기술 스택
 - **Frontend**: HTML, CSS, JavaScript
