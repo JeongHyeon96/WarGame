@@ -9,7 +9,7 @@
 
 > ESG Wargame 프로젝트 실행 화면
 
-![Wargame Demo](img/demo.gif)
+![Wargame Demo](demo.gif)
 
 ## 🛠 기술 스택
 - **Frontend**: HTML, CSS, JavaScript
